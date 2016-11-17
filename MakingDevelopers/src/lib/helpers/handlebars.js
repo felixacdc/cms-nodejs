@@ -11,5 +11,5 @@ function minify(content) {
         removeComments: true,
         collapseWhitespace: true,
         minifyJS: true
-    })
+    });
 }
